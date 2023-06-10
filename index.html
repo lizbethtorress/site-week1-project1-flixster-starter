@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flixter</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body style="background-color:black;">
+
+    <h1>🍿 Flixter</h1>
+
+    <form id="search-form">
+        <input id="search-input" required name="search" placeholder="Enter a movie" class="" />
+        <button id="search-button" type="submit" class="search-btn">Search Movie!</button>
+        <button id="close-search-btn" type="button" class="close-search-btn">Clear Results</button>
+    </form>
+    
+    <h2 id = "movieName"style = "color:white">
+        Now Playing
+    </h2>
+    
+     <div id="movies-grid" class="grid-container"></div>
+
+
+     <div id = "buttonLoad">
+        <button id="load-more-movies-btn" class="load-more-movies-btn" style = "margin: auto;">Load More</button>
+     </div>
+
+     <div id="search-results" class="grid-container"></div>
+     <script src="script.js"></script>
+
+</body>
+</html>
