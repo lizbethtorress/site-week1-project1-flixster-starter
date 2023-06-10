@@ -1,1 +1,57 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px;
+  }
 
+  #search-form {
+    text-align: center;
+  }
+
+  #movieName {
+    color: white;
+    margin: 10px;
+    margin-bottom: 0px;
+  }
+  .movie-card {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+  }
+  .movie-title {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: white
+}
+.movie-poster {
+  width: 100%;
+  height: auto;
+  margin-bottom: 5px;
+}
+
+.movie-votes {
+  font-size: px;
+  color: white;
+}
+
+#buttonLoad{
+  text-align: center;
+}
+#load-more-button {
+  width: auto;
+  height: 50%;
+  padding: 14px 28px;
+  font-size: 16px;
+}
