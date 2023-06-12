@@ -41,7 +41,11 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 ### Walkthrough Video
 
 
-<div style="position: relative; padding-bottom: 55.46875%; height: 0;"><iframe src="https://www.loom.com/embed/a02d14978f2847b286142ad1321832d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<a href="https://www.loom.com/share/ff10e348fcca4c01b57be86a74f9a318">
+    <p>Library | Loom - 12 June 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ff10e348fcca4c01b57be86a74f9a318-with-play.gif">
+  </a>
+
 
 - this was the provided code for the embedded video
 
